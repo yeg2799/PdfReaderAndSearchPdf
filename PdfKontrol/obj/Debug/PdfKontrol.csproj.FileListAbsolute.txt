@@ -1,0 +1,16 @@
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\bin\Debug\PdfKontrol.exe.config
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\bin\Debug\PdfKontrol.exe
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\bin\Debug\PdfKontrol.pdb
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.csproj.ResolveComReference.cache
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.Properties.Resources.resources
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.exe
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.pdb
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.Ana.resources
+C:\Users\Emre\source\repos\PdfKontrol\PdfKontrol\obj\Debug\PdfKontrol.Arama.resources
